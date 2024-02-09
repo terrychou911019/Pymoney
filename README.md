@@ -30,4 +30,4 @@ git clone https://github.com/terrychou911019/Pymoney.git
 
 3. Then, you can utilize the functions of this program.
 
-4. After exiting the program, it will generate a file named 'records.txt' containing the accounting records.
+4. After exiting the program, it will generate a file named _"records.txt"_ containing the accounting records.
